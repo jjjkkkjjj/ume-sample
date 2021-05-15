@@ -1,0 +1,3 @@
+[submodule "umesimd"]
+	path = umesimd
+	url = https://github.com/edanor/umesimd.git
